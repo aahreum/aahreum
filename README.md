@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Hits](https://hits.sh/github.com/aahreum.svg?view=today-total&label=today&color=fced95&labelColor=4f4f4b)](https://hits.sh/github.com/aahreum/)
