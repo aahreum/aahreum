@@ -1,4 +1,4 @@
-## Hi there 👋
+# 😎 Frontend Developer [![Hits](https://hits.sh/github.com/aahreum.svg?view=today-total&label=today&color=fced95&labelColor=4f4f4b)](https://hits.sh/github.com/aahreum/)
 
 <!--
 **aahreum/aahreum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Blog](https://img.shields.io/badge/Blog-ff4d6d?style=flat&logo=Tistory&logoColor=white)](https://your-blog-url)
+[![Mail](https://img.shields.io/badge/cocoding420@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:cocoding420@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/__ah__reum___)
 
-[![Hits](https://hits.sh/github.com/aahreum.svg?view=today-total&label=today&color=fced95&labelColor=4f4f4b)](https://hits.sh/github.com/aahreum/)
+
+
