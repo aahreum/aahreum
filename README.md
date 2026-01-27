@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Blog](https://img.shields.io/badge/Blog-ff4d6d?style=flat&logo=Tistory&logoColor=white)](https://your-blog-url)
+[![Blog](https://img.shields.io/badge/Blog-ff4d6d?style=flat&logo=Tistory&logoColor=white)](https://cocoding420.tistory.com/)
 [![Mail](https://img.shields.io/badge/cocoding420@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:cocoding420@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/__ah__reum___)
 
