@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/__ah__reum___)
 
 
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahreum&hide=stars,contribs&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/aahreum)
