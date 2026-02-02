@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=aahreum&hide=stars,contribs&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/aahreum)
+![GitHub Stats](https://helio-github-stats.vercel.app/api?username=aahreum&hide=stars,contribs&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true)
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aahreum&theme=ayu_mirage)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aahreum&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aahreum&theme=ayu_mirage&hide_border=true)
+![Commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aahreum&theme=ayu_mirage&utcOffset=8)
 
 
