@@ -2,7 +2,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-ff4d6d?style=flat&logo=Tistory&logoColor=white)](https://cocoding420.tistory.com/)
 [![Mail](https://img.shields.io/badge/cocoding420@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:cocoding420@gmail.com)
-[![Hits](https://hits.sh/github.com/aahreum.svg?view=today-total&label=today&color=fced95&labelColor=4f4f4b)](https://hits.sh/github.com/aahreum/)
 
 
 ## 🧠 Algorithm Practice
